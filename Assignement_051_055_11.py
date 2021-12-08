@@ -13,7 +13,7 @@ for number in num2:
     a += 1
     print(f'{a} => {number}')
 
-
-# my_numbers.sort()
-# print(my_numbers)
 print('All numbers printed')
+print('#' * 50)
+
+# Second
