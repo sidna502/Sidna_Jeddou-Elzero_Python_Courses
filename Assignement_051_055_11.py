@@ -27,7 +27,7 @@ for num in range(1, 21):
         continue
     else:
         print(f'{str(num).zfill(2)}')
-Third
+# Third
 total_marks = 0
 my_rank = {
     'Math': 'A',
